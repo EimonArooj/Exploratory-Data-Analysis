@@ -105,8 +105,6 @@ Through this project, I practiced:
 
 **Program:** Data Science Internship
 
-**Organization:** NextgenLearners
-
 **Week:** 2 – Exploratory Data Analysis & Visualization
 
 ---
